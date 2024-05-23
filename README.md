@@ -19,7 +19,7 @@ Table of contents
 <!--te-->
 
 [Task 1:Student Grade Management ]
-(https://github.com/sarbajoyghosh/CBTCIP/tree/main/Task1_StudentGradeManagement)
+<studentgrademanagementsystem.c)
 ================================
 
 Description
