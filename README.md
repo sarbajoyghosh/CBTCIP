@@ -12,7 +12,7 @@ Table of contents
 
 
 * [Task 2:Expense Tracker](#task-2-expense-tracker)
-    * [Description](#description-1)
+    * [Description](#description)
     * [Features](#features)
 
   
