@@ -11,11 +11,11 @@ Table of contents
     
 
 
-* [Task 2:Expense Tracker](#task-2-expense-tracker)
+* [Task 4:Expense Tracker](#task-2-expense-tracker)
     * [Description](#description)
     * [Features](#features)
 
-  * [Task 3:Word Count Tool ](#task-3-word-count-tool)
+  * [Task 2:Word Count Tool ](#task-3-word-count-tool)
     * [Description](#description)
     * [Features](#features)
 
@@ -38,7 +38,7 @@ Features
 * Performance Summary: Generate a summary report of students' performance.
 
 
-[Task 2:Expense Tracker]
+[Task 4:Expense Tracker]
 (https://github.com/sarbajoyghosh/CBTCIP/blob/main/expensetracker.c)
 ========================
 
@@ -54,7 +54,7 @@ Features
 * Insights: Offer insights into spending habits to manage finances better.
 
 
-[Task 3:Word Count Tool ]
+[Task 2:Word Count Tool ]
 =========================
 
 Description
