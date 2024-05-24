@@ -15,7 +15,10 @@ Table of contents
     * [Description](#description)
     * [Features](#features)
 
-  
+  * [Task 3:Word Count Tool ](#task-3-word-count-tool)
+    * [Description](#description)
+    * [Features](#features)
+
 <!--te-->
 
 [Task 1:Student Grade Management ]
@@ -49,3 +52,19 @@ Features
 * Input Expenses: Record daily expenditures with categories.
 * Visual Reports: Generate visual reports to analyze spending patterns.
 * Insights: Offer insights into spending habits to manage finances better.
+
+
+[Task 3:Word Count Tool ]
+=========================
+
+Description
+------------
+The Word Count Tool is a user-friendly C program designed to read a text file and accurately calculate the total number of words, lines, and characters within the document. This tool provides an efficient and convenient way for users to analyze the content and gain insights into the structure of their textual data. It is a great project for strengthening programming skills, particularly in file handling, string manipulation, and basic text analysis in C.
+
+Features
+---------
+* Reads text files specified by the user.
+* Counts and displays the total number of characters in the file.
+* Counts and displays the total number of words in the file.
+* Counts and displays the total number of lines in the file.
+* Handles various word delimiters such as spaces, newlines, and end-of-file.
