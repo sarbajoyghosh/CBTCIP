@@ -86,22 +86,22 @@ Features
 ---------
 * Account Creation:
 
- * Users can create different types of bank accounts (e.g., savings, checking).
- * Each account has a unique account number and associated user information.
+  Users can create different types of bank accounts (e.g., savings, checking).
+  Each account has a unique account number and associated user information.
 
 * Deposit and Withdrawal:
 
- * Users can deposit funds into their accounts.
- * Users can withdraw funds from their accounts, with checks for sufficient balance.
+  Users can deposit funds into their accounts.
+  Users can withdraw funds from their accounts, with checks for sufficient balance.
 
 * Balance Inquiry:
 
- * Users can check the current balance of their accounts at any time.
+  Users can check the current balance of their accounts at any time.
 * Interest Calculation:
 
- * The system calculates interest for savings accounts based on predefined rates.
- * Interest is applied to the account balance at specified intervals.
+   The system calculates interest for savings accounts based on predefined rates.
+  Interest is applied to the account balance at specified intervals.
 * Transaction History:
 
- * The system keeps a record of all transactions (deposits, withdrawals) for each account.
- * Users can view their transaction history for better account management.
+  The system keeps a record of all transactions (deposits, withdrawals) for each account.
+   Users can view their transaction history for better account management.
