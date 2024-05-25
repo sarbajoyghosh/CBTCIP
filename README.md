@@ -11,11 +11,11 @@ Table of contents
     
 
 
-* [Task 4:Expense Tracker](#task-2-expense-tracker)
+* [Task 4:Expense Tracker](#task-4-expense-tracker)
     * [Description](#description)
     * [Features](#features)
 
-  * [Task 2:Word Count Tool ](#task-3-word-count-tool)
+  * [Task 2:Word Count Tool ](#task-2-word-count-tool)
     * [Description](#description)
     * [Features](#features)
 
@@ -55,6 +55,7 @@ Features
 
 
 [Task 2:Word Count Tool ]
+(https://github.com/sarbajoyghosh/CBTCIP/blob/main/wordcounttool.c)
 =========================
 
 Description
