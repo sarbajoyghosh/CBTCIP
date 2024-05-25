@@ -19,6 +19,10 @@ Table of contents
     * [Description](#description)
     * [Features](#features)
 
+ * [Task 3:Bank Account Management](#task-3-bank-account-management)
+    * [Description](#description)
+    * [Features](#features)
+
 <!--te-->
 
 [Task 1:Student Grade Management ]
@@ -69,3 +73,35 @@ Features
 * Counts and displays the total number of words in the file.
 * Counts and displays the total number of lines in the file.
 * Handles various word delimiters such as spaces, newlines, and end-of-file.
+
+
+[Task 3:Bank Account Management]
+================================
+
+Description
+------------
+This project is a simulation of a bank account management system. It allows users to create accounts, deposit and withdraw funds, check balances, and calculate interest based on different account types. The goal of this project is to provide a basic framework for understanding how banking systems operate and to practice programming concepts related to data management and user interaction.
+
+Features
+---------
+* Account Creation:
+
+ * Users can create different types of bank accounts (e.g., savings, checking).
+ * Each account has a unique account number and associated user information.
+
+* Deposit and Withdrawal:
+
+ * Users can deposit funds into their accounts.
+ * Users can withdraw funds from their accounts, with checks for sufficient balance.
+
+* Balance Inquiry:
+
+ * Users can check the current balance of their accounts at any time.
+* Interest Calculation:
+
+ * The system calculates interest for savings accounts based on predefined rates.
+ * Interest is applied to the account balance at specified intervals.
+* Transaction History:
+
+ * The system keeps a record of all transactions (deposits, withdrawals) for each account.
+ * Users can view their transaction history for better account management.
